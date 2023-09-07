@@ -1,0 +1,536 @@
+{
+  "contenu1": {
+    "div1": {
+      "style": "width: 1051px; height: 70px; left: 315px; top: 314px; position: absolute",
+      "children": [
+        {
+          "img1": {
+            "src": "Fonc1_image.png",
+            "style": "width: 50px; height: 50px; left: 348px; top: 12px; position: absolute; border-radius: 35px; border: 0.50px #EBEBEB solid"
+          }
+        },
+        {
+          "img2": {
+            "src": "tools.png",
+            "style": "width: 45px; height: 37px; left: 1006px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img3": {
+            "src": "update.png",
+            "style": "width: 45px; height: 37px; left: 956px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img4": {
+            "src": "share.png",
+            "style": "width: 45px; height: 37px; left: 906px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "div2": {
+            "style": "width: 70px; height: 34px; left: 0px; top: 36px; position: absolute",
+            "children": [
+              {
+                "div3": {
+                  "style": "width: 70px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                }
+              },
+              {
+                "div4": {
+                  "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Digital"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div5": {
+            "style": "width: 84px; height: 34px; left: 80px; top: 36px; position: absolute",
+            "children": [
+              {
+                "div6": {
+                  "style": "width: 84px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                }
+              },
+              {
+                "div7": {
+                  "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Webinar"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div8": {
+            "style": "width: 282px; height: 31px; left: 0px; top: 0px; position: absolute; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "Fonctionnalité 1"
+          }
+        },
+        {
+          "div9": {
+            "style": "left: 500px; top: 16px; position: absolute; text-align: center",
+            "children": [
+              {
+                "span1": {
+                  "style": "color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "10"
+                }
+              },
+              {
+                "span2": {
+                  "style": "color: #91919C; font-size: 14px; font-family: Avenir Next; font-weight: 500; word-wrap: break-word",
+                  "text": "(5 en attente)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div10": {
+            "style": "left: 673px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "11"
+          }
+        },
+        {
+          "div11": {
+            "style": "left: 812px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "55"
+          }
+        }
+      ]
+    }
+  }
+}
+
+{
+  "contenu2": {
+    "div1": {
+      "style": "width: 1051px; height: 70px; left: 315px; top: 436px; position: absolute",
+      "children": [
+        {
+          "img1": {
+            "src": "Fonc2_image.png",
+            "style": "width: 50px; height: 50px; left: 348px; top: 12px; position: absolute; border-radius: 35px; border: 0.50px #EBEBEB solid"
+          }
+        },
+        {
+          "img2": {
+            "src": "tools.png",
+            "style": "width: 45px; height: 37px; left: 1006px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img3": {
+            "src": "update.png",
+            "style": "width: 45px; height: 37px; left: 956px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img4": {
+            "src": "share.png",
+            "style": "width: 45px; height: 37px; left: 906px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "div2": {
+            "style": "width: 70px; height: 34px; left: 0px; top: 36px; position: absolute",
+            "children": [
+              {
+                "div3": {
+                  "style": "width: 70px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                }
+              },
+              {
+                "div4": {
+                  "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Digital"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div5": {
+            "style": "width: 72px; height: 34px; left: 78px; top: 36px; position: absolute",
+            "children": [
+              {
+                "div6": {
+                  "style": "width: 72px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                }
+              },
+              {
+                "div7": {
+                  "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Limber"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div8": {
+            "style": "width: 282px; height: 31px; left: 0px; top: 0px; position: absolute; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "Fonctionnalité 2"
+          }
+        },
+        {
+          "div9": {
+            "style": "left: 500px; top: 16px; position: absolute; text-align: center",
+            "children": [
+              {
+                "span1": {
+                  "style": "color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "9"
+                }
+              },
+              {
+                "span2": {
+                  "style": "color: #91919C; font-size: 14px; font-family: Avenir Next; font-weight: 500; word-wrap: break-word",
+                  "text": "(4 en attente)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div10": {
+            "style": "left: 660px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "1 123"
+          }
+        },
+        {
+          "div11": {
+            "style": "left: 812px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "37"
+          }
+        }
+      ]
+    }
+  }
+}
+
+{
+  "contenu3": {
+    "div1": {
+      "style": "width: 1051px; height: 70px; left: 315px; top: 555px; position: absolute",
+      "children": [
+        {
+          "img1": {
+            "src": "tools.png",
+            "style": "width: 45px; height: 37px; left: 1006px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img2": {
+            "src": "update.png",
+            "style": "width: 45px; height: 37px; left: 956px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img3": {
+            "src": "share.png",
+            "style": "width: 45px; height: 37px; left: 906px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "div2": {
+            "style": "width: 282px; height: 70px; left: 0px; top: 0px; position: absolute",
+            "children": [
+              {
+                "div3": {
+                  "style": "width: 70px; height: 34px; left: 0px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div4": {
+                        "style": "width: 70px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div5": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Digital"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div6": {
+                  "style": "width: 72px; height: 34px; left: 174px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div7": {
+                        "style": "width: 72px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div8": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Limber"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div9": {
+                  "style": "width: 84px; height: 34px; left: 80px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div10": {
+                        "style": "width: 84px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div11": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Webinar"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div12": {
+                  "style": "width: 282px; height: 31px; left: 0px; top: 0px; position: absolute; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Fonctionnalité 3"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+
+{
+  "contenu4": {
+    "div1": {
+      "style": "width: 1051px; height: 70px; left: 315px; top: 674px; position: absolute",
+      "children": [
+        {
+          "img1": {
+            "src": "tools.png",
+            "style": "width: 45px; height: 37px; left: 1006px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img2": {
+            "src": "update.png",
+            "style": "width: 45px; height: 37px; left: 956px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img3": {
+            "src": "share.png",
+            "style": "width: 45px; height: 37px; left: 906px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "div2": {
+            "style": "width: 282px; height: 70px; left: 0px; top: 0px; position: absolute",
+            "children": [
+              {
+                "div3": {
+                  "style": "width: 70px; height: 34px; left: 0px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div4": {
+                        "style": "width: 70px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div5": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Digital"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div6": {
+                  "style": "width: 72px; height: 34px; left: 174px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div7": {
+                        "style": "width: 72px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div8": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Limber"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div9": {
+                  "style": "width: 84px; height: 34px; left: 80px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div10": {
+                        "style": "width: 84px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div11": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Webinar"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div12": {
+                  "style": "width: 282px; height: 31px; left: 0px; top: 0px; position: absolute; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Fonctionnalité 4"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
+
+
+{
+  "contenu5": {
+    "div1": {
+      "style": "width: 1051px; height: 70px; left: 315px; top: 793px; position: absolute",
+      "children": [
+        {
+          "img1": {
+            "src": "Fonc5_image.png",
+            "style": "width: 50px; height: 50px; left: 348px; top: 12px; position: absolute; border-radius: 35px; border: 0.50px #EBEBEB solid"
+          }
+        },
+        {
+          "img2": {
+            "src": "tools.png",
+            "style": "width: 45px; height: 37px; left: 1006px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img3": {
+            "src": "update.png",
+            "style": "width: 45px; height: 37px; left: 956px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "img4": {
+            "src": "share.png",
+            "style": "width: 45px; height: 37px; left: 906px; top: 19px; position: absolute;"
+          }
+        },
+        {
+          "div2": {
+            "style": "width: 282px; height: 70px; left: 0px; top: 0px; position: absolute",
+            "children": [
+              {
+                "div3": {
+                  "style": "width: 70px; height: 34px; left: 0px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div4": {
+                        "style": "width: 70px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div5": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Digital"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div6": {
+                  "style": "width: 72px; height: 34px; left: 174px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div7": {
+                        "style": "width: 72px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div8": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Limber"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div9": {
+                  "style": "width: 84px; height: 34px; left: 80px; top: 36px; position: absolute",
+                  "children": [
+                    {
+                      "div10": {
+                        "style": "width: 84px; height: 34px; left: 0px; top: 0px; position: absolute; background: #D95E54; border-radius: 10px"
+                      }
+                    },
+                    {
+                      "div11": {
+                        "style": "left: 10px; top: 6px; position: absolute; color: white; font-size: 16px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                        "text": "Webinar"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "div12": {
+                  "style": "width: 282px; height: 31px; left: 0px; top: 0px; position: absolute; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "Fonctionnalité 5"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div13": {
+            "style": "left: 500px; top: 16px; position: absolute; text-align: center",
+            "children": [
+              {
+                "span1": {
+                  "style": "color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+                  "text": "1"
+                }
+              },
+              {
+                "span2": {
+                  "style": "color: #91919C; font-size: 14px; font-family: Avenir Next; font-weight: 500; word-wrap: break-word",
+                  "text": "(6 en attente)"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "div14": {
+            "style": "left: 673px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "21"
+          }
+        },
+        {
+          "div15": {
+            "style": "left: 812px; top: 24px; position: absolute; text-align: center; color: #4F4F4F; font-size: 18px; font-family: Avenir Next; font-weight: 600; word-wrap: break-word",
+            "text": "55"
+          }
+        }
+      ]
+    }
+  }
+}
